@@ -1,7 +1,7 @@
 # Forecasting Surface Air Temperature in the Philippines Using Meta-Modeling of Time Series and Neural Network Approaches with Climate Scenario Validation
 
 ### Overview  
-This study investigates surface air temperature trends in the Philippines (1901–2100) through statistical and machine learning methods. Combining ARIMA, SARIMA, and Long Short-Term Memory (LSTM) models, a meta-model integrates their strengths for enhanced forecasting accuracy. The research validates its findings against Shared Socioeconomic Pathway (SSP) climate scenarios to ensure reliability.
+In this study I investigate surface air temperature trends in the Philippines (1901–2100) through statistical and machine learning methods. Combining ARIMA, SARIMA, and Long Short-Term Memory (LSTM) models, a meta-model integrates their strengths for enhanced forecasting accuracy. I validate the findings against Shared Socioeconomic Pathway (SSP) climate scenarios to ensure reliability.
 
 ### Key Objectives  
 1. Forecast temperature trends using statistical (ARIMA, SARIMA) and deep learning (LSTM) models.  
