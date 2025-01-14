@@ -26,7 +26,7 @@ In this study I investigated surface air temperature trends in the Philippines (
 - **Limitations**: Lack of high-resolution data (e.g., seasonal variations) and additional predictors (e.g., humidity).  
 
 ### Additional Reading  
-For a detailed explanation of this study, read the article:  
+For a detailed explanation of this study, read my article:  
 [Advanced Climate Forecasting of Philippine Surface Air Temperatures Through the Year 2100 Using Meta-Modeling Approaches](https://medium.com/@abraham.prosia0707/advanced-climate-forecasting-of-philippine-surface-air-temperatures-through-the-year-2100-using-9a0335c6bb77).
 
 ### Citation  
