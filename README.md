@@ -19,11 +19,7 @@ In this study I investigated surface air temperature trends in the Philippines (
   - RMSE: 0.20  
   - MAPE: 0.46%  
   - R²: 0.55  
-- **Comparison**: Outperformed individual SARIMA and LSTM models, aligning closely with SSP2-4.5 pathways.  
-
-### Key Takeaways  
-- **Strengths**: Combines statistical and machine learning techniques for robust forecasting.  
-- **Limitations**: Lack of high-resolution data (e.g., seasonal variations) and additional predictors (e.g., humidity).  
+- **Comparison**: Outperformed individual SARIMA and LSTM models, aligning closely with SSP2-4.5 pathways.   
 
 ### Additional Reading  
 For a detailed explanation of this study, read my article:  
